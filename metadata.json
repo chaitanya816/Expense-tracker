@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise",
+  "description": "An intuitive expense and budget tracking application featuring real-time financial analytics, rigorous form validation with rejected entry feedback, and comprehensive demonstration tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
